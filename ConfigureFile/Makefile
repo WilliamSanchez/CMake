@@ -3,4 +3,4 @@ prepare:
 	mkdir build
 	cd build
 
-#cmake .. -DCOMPILE_EXECUTABLE=ON
+#cmake .. -D COMPILE_EXECUTABLE=ON
